@@ -1,1 +1,37 @@
+body {
+    background-color: purple;
+}
 
+
+
+h1 {
+    color: green;
+}
+h2 {
+    color: blue;
+    font-style:bold;
+}
+h2 {
+    color: orange;
+    font-style: italic;
+}
+h3 {
+    color:red;
+}
+
+
+
+.st {
+    color: crimson;
+    font-style: bold;
+}
+#sy {
+    color: yellow;
+    background-color: blue;
+}
+
+.su {
+    color: white !important;
+    font-style: bold !important;
+    background-color: black !important;
+}
